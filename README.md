@@ -42,9 +42,9 @@ To manually run through the code, you may either follow the instructions given b
 
 5. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
 
-  ```
-  jupyter notebook dog_app.ipynb
-  ```
+  	```
+  	jupyter notebook dog_app.ipynb
+  	```
 
 ---
 
